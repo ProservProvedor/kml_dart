@@ -3,6 +3,5 @@
 .packages
 analysis_options.yaml
 example/
-lib/
 pubspec.lock
 result/
