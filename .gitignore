@@ -1,0 +1,8 @@
+.DS_Store
+.dart_tool/
+.packages
+analysis_options.yaml
+example/
+lib/
+pubspec.lock
+result/
